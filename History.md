@@ -14,6 +14,10 @@
 
 # Basic Tenets
 - Stoicism teaches the development of self-control and fortitude as a means of overcoming destructive emotions
+- Becoming a clear and unbiased thinker allows one to understand the universal reason
+- Stoicism involves improving the individual's ethical and moral well-being
+- "Virtue consists in a will that is in agreement with Nature."
+- "To be free from anger, envy, and jealousy"
 
 # Famous Stoics
 - Marcus Aurelius
