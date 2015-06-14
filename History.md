@@ -12,6 +12,9 @@
 - Including the Emperor Marcus Aurelius 
 - It has been around until the closing of all pagan philosophy schools in 529 AD by order of the Emperor Justinian I
 
+# Basic Tenets
+- Stoicism teaches the development of self-control and fortitude as a means of overcoming destructive emotions
+
 # Famous Stoics
 - Marcus Aurelius
 - Seneca
