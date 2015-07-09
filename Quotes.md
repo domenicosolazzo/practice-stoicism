@@ -1,4 +1,6 @@
 # Quotes
+
+### Marcus Aurelius
 - Everything that exists is in a manner the seed of that which will be: MA
 - Forward, as occasion offers. Never look round to see whether any shall note it... Be satisfied with success in even the smallest matter, and think that even such a result is no trifle:MA
 - It is not death that a man should fear, but he should fear never beginning to live:MA
@@ -10,3 +12,9 @@
 - Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth:MA
 - Waste no more time arguing about what a good man should be. Be one:MA
 - Live a good life. If there are gods and they are just, then they will not care how devout you have been, but will welcome you based on the virtues you have lived by. If there are gods, but unjust, then you should not want to worship them. If there are no gods, then you will be gone, but will have lived a noble life that will live on in the memories of your loved ones:MA
+
+### Seneca
+- Misfortune wighs most heavily on thos who expect nothing but good fortune.
+
+### Epictetus
+- We should keep in mind that all things everywhere are perishable.
