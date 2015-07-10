@@ -11,7 +11,6 @@
   - Prevent ourself for taking things for granted
   - Learn how to want the things that we already have
   - Stoics use Negative Visualization
-  - 
   
 - Negative visualization is one of the most important psychological's tools 
 - Imagine that we have lost things that we value
