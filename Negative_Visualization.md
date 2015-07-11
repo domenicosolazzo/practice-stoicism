@@ -16,4 +16,8 @@
 - Imagine that we have lost things that we value
 - Remember that nothing is forever
   - "We should love all of our dear ones..., but always with the thought that we have no promise that we may keep them forever; nay, no promise even that we may keep them for long"
+  - We should periodically pause to reflect on the fact that we will not live forever and therefore that this day could be our last
+  - As we think about and plan for tomorrow, to remember to appreciate today.
+  - Besides conteplating the loss of our life, we should contemplate the loss of our possessions.
+  - We would be much better off to spend time thinking of all the things we have and reflecting on how much we would miss them if they were not ours
 
