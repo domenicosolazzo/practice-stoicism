@@ -20,4 +20,6 @@
   - As we think about and plan for tomorrow, to remember to appreciate today.
   - Besides conteplating the loss of our life, we should contemplate the loss of our possessions.
   - We would be much better off to spend time thinking of all the things we have and reflecting on how much we would miss them if they were not ours
-
+- Regular practice of negative visualization has the effect of transforming Stoics into full-blown optimists
+- Hedonic adaptation has the power of extinguish our enjoyment of the world
+- One reason children are capable of joy is because they take almost nothing for granted
