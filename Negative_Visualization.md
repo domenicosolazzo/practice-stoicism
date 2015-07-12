@@ -23,3 +23,7 @@
 - Regular practice of negative visualization has the effect of transforming Stoics into full-blown optimists
 - Hedonic adaptation has the power of extinguish our enjoyment of the world
 - One reason children are capable of joy is because they take almost nothing for granted
+- To practice negative visualization is to contemplate the impermanence of the world around us.
+- Negative visualization teaches us to embrace whatever life we happen to be living and to extract every bit of delight we can from it
+  - "All things human are short-lived and perishable", Seneca
+- By contemplating the impermanence of everything in the world, we are forced to recognize that every time we do something could be the last time we do it, and this recognition can invest the things we do with a significance and intensity that would otherwise be absent.
