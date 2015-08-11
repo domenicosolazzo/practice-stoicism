@@ -20,3 +20,5 @@
 
 ### Epictetus
 - We should keep in mind that all things everywhere are perishable.
+- It's not what happens to you, but how you react to it that matters.
+- There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
