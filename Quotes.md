@@ -27,3 +27,5 @@
 - Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions.
 - First learn the meaning of what you say, and then speak.
 - If you want to improve, be content to be thought foolish and stupid.
+- Silence is safer than speech.
+- Make the best use of what is in your power, and take the rest as it happens.
