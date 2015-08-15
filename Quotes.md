@@ -17,6 +17,7 @@
 - Misfortune wighs most heavily on thos who expect nothing but good fortune.
 - Difficulties strengthen the mind, as labor does the body.
 - Be silent as to services you have rendered, but speak of favours you have received.
+- True happiness is to enjoy the present, without anxious dependence upon the future.
 
 ### Epictetus
 - We should keep in mind that all things everywhere are perishable.
