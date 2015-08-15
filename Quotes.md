@@ -29,3 +29,4 @@
 - If you want to improve, be content to be thought foolish and stupid.
 - Silence is safer than speech.
 - Make the best use of what is in your power, and take the rest as it happens.
+- First say to yourself what you would be; and then do what you have to do.
