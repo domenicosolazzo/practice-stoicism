@@ -31,3 +31,5 @@
 - Silence is safer than speech.
 - Make the best use of what is in your power, and take the rest as it happens.
 - First say to yourself what you would be; and then do what you have to do.
+- The appearance of things to the mind is the standard of every action to man.
+- Whatever you would make habitual, practice it; and if you would not make a thing habitual, do not practice it, but accustom yourself to something else.
