@@ -18,6 +18,8 @@
 - Difficulties strengthen the mind, as labor does the body.
 - Be silent as to services you have rendered, but speak of favours you have received.
 - True happiness is to enjoy the present, without anxious dependence upon the future.
+- Luck is what happens when preparation meets opportunity.
+- If a man knows not to which port he sails, no wind is favorable.
 
 ### Epictetus
 - We should keep in mind that all things everywhere are perishable.
