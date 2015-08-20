@@ -36,4 +36,5 @@
 - Make the best use of what is in your power, and take the rest as it happens.
 - First say to yourself what you would be; and then do what you have to do.
 - The appearance of things to the mind is the standard of every action to man.
+- If, for example, you are fond of a specific ceramic cup, remind yourself that it is only ceramic cups in general of which you are fond. Then, if it breaks, you will not be disturbed. If you kiss your child, or your wife, say that you only kiss things which are human, and thus you will not be disturbed if either of them dies.
 - Whatever you would make habitual, practice it; and if you would not make a thing habitual, do not practice it, but accustom yourself to something else.
