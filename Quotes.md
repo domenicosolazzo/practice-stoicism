@@ -20,6 +20,8 @@
 - True happiness is to enjoy the present, without anxious dependence upon the future.
 - Luck is what happens when preparation meets opportunity.
 - If a man knows not to which port he sails, no wind is favorable.
+- Limiting one’s desires actually helps to cure one of fear. Cease to hope … and you will cease to fear.
+- You act like mortals in all that you fear, and like immortals in all that you desire
 
 ### Epictetus
 - We should keep in mind that all things everywhere are perishable.
