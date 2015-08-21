@@ -12,6 +12,7 @@
 - Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth
 - Waste no more time arguing about what a good man should be. Be one
 - Live a good life. If there are gods and they are just, then they will not care how devout you have been, but will welcome you based on the virtues you have lived by. If there are gods, but unjust, then you should not want to worship them. If there are no gods, then you will be gone, but will have lived a noble life that will live on in the memories of your loved ones
+- Let no act be done without purpose.
 
 ### Seneca
 - Misfortune wighs most heavily on thos who expect nothing but good fortune.
@@ -22,6 +23,7 @@
 - If a man knows not to which port he sails, no wind is favorable.
 - Limiting one’s desires actually helps to cure one of fear. Cease to hope … and you will cease to fear.
 - You act like mortals in all that you fear, and like immortals in all that you desire
+- Verba rebus proba.
 
 ### Epictetus
 - We should keep in mind that all things everywhere are perishable.
