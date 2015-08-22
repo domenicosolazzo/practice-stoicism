@@ -14,6 +14,11 @@
 - Live a good life. If there are gods and they are just, then they will not care how devout you have been, but will welcome you based on the virtues you have lived by. If there are gods, but unjust, then you should not want to worship them. If there are no gods, then you will be gone, but will have lived a noble life that will live on in the memories of your loved ones
 - Let no act be done without purpose.
 - He who is brave is fearless; he who is fearless is free from sadness; he who is free from sadness is happy.
+- Concentrate every minute on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions. Yes, you can, if you do everything as if it were the last thing you were doing in your life, and stop being aimless, stop letting your emotions override what your mind tells you, stop being hypocritical, self-centred, irritable. You see how few things you have to do to live a satisfying and reverent life? If you can manage this, that's all even the gods can ask of you.
+- Were you to live three thousand years, or even thirty thousand, remember that the sole life which a man can lose is that which he is living at the moment...he can have no other life than the one he loses. For the passing minute is every man's equal possession, but what has once gone by is not ours.
+- To live each day as though one's last, never flustered, never apathetic, never attitudinizing – here is perfection of character.
+- Nothing happens to anybody that he is not fitted by Nature to bear.
+- The obstacle is the way.
 
 ### Seneca
 - Misfortune wighs most heavily on thos who expect nothing but good fortune.
