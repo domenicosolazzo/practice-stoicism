@@ -33,6 +33,7 @@
 - Limiting one’s desires actually helps to cure one of fear. Cease to hope … and you will cease to fear.
 - You act like mortals in all that you fear, and like immortals in all that you desire
 - Verba rebus proba.
+-  Furthermore, that you may know in what manner passions begin and swell and gain spirit, learn that the first emotion is involuntary, and is, as it were, a preparation for a passion, and a threatening of one. The next is combined with a wish, though not an obstinate one, as, for example, “It is my duty to avenge myself, because I have been injured,” or “It is right that this man should be punished, because he has committed a crime.” The third emotion is already beyond our control, because it overrides reason, and wishes to avenge itself, not if it be its duty, but whether or no. We are not able by means of reason to escape from that first impression on the mind, any more than we can escape from those things which we have mentioned as occurring to the body: we cannot prevent other people’s yawns temping us to yawn; we cannot help winking when fingers are suddenly darted at our eyes. Reason is unable to overcome these habits, which perhaps might be weakened by practice and constant watchfulness: they differ from an emotion which is brought into existence and brought to an end by a deliberate mental act.
 
 ### Epictetus
 - We should keep in mind that all things everywhere are perishable.
