@@ -9,3 +9,4 @@
 - [Negative_Visualization](#): Stoic technique
 - [Quotes](#): Quotes from famous philosophers
 - [Videos](#): Videos
+- [Articles](#): Articles
