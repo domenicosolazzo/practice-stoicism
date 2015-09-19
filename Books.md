@@ -13,3 +13,4 @@
 
 ## Books with Stoic ideas
 - [The Obstacle is the Way](http://www.amazon.com/The-Obstacle-Is-Way-Timeless/dp/1591846358): By Ryan Holiday
+- [The Inner Citadel](#): by Pierre Hadot
