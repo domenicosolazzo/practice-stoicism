@@ -7,6 +7,7 @@
 - [A Stoic and Socratic Guide to Life](http://www.goodreads.com/book/show/1888218.Epictetus): By Epictetus
 - [The Discourses](http://www.goodreads.com/book/show/1045017.The_Discourses): The Discourses by Epictetus
 - [Art of Living: The Classical Manual on Virtue, Happiness, and Effectiveness](#): by Epictetus
+- [Lectures and Sayings](#): by Musonius Rufus
 
 ## About Stoicism
 - [A Guide to the Good Life: The Ancient Art of Stoic Joy](http://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
