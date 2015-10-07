@@ -59,3 +59,7 @@ List of quotes from some famous stoic philosophers
 
 # Musonius Rufus 
 - Thus it appears that exile helps, rather than hinders body and spirit, by treating them better than they treat themselves.
+- For mankind, evil is injustice and cruelty and indifference to a neighbour’s trouble, while virtue is brotherly love and goodness and justice and beneficence and concern for the welfare of your neighbour—with
+- You will earn the respect of all if you begin by earning the respect of yourself. Don't expect to encourage good deeds in people conscious of your own misdeeds.
+- If we were to measure what is good by how much pleasure it brings, nothing would be better than self-control- if we were to measure what is to be avoided by its pain, nothing would be more painful than lack of self-control
+- To accept injury without a spirit of savage resentment-to show ourselves merciful toward those who wrong us-being a source of good hope to them-is characteristic of a benevolent and civilized way of life.
