@@ -15,3 +15,5 @@
 ## Books with Stoic ideas
 - [The Obstacle is the Way](http://www.amazon.com/The-Obstacle-Is-Way-Timeless/dp/1591846358): By Ryan Holiday
 - [The Inner Citadel](#): by Pierre Hadot
+- [Courage Under Fire: Testing Epictetus's Doctrines in a Laboratory of Human Behavior](http://www.amazon.com/Courage-Under-Fire-Epictetuss-Laboratory-ebook/dp/B001OC6GJ2/ref=pd_sim_351_1?ie=UTF8&refRID=1T71414QNFBTF84DHM08&dpID=41dsS5Fs6XL&dpSrc=sims&preST=_AC_UL160_SR105%2C160_): by James Stockdale
+- [Thoughts of a Philosophical Fighter Pilot: 431](http://www.amazon.com/Thoughts-Philosophical-Fighter-Pilot-Institution-ebook/dp/B0037CF5PI/ref=sr_1_1?ie=UTF8&qid=1443905867&sr=8-1&keywords=stockdale+thoughts): by James Stockdale
