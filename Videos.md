@@ -3,3 +3,4 @@
   - Author: Tim Ferris
 - [The Stoics](www.youtube.com/watch?v=yu7n0XzqtfA)
 - [On Being a Stoic](www.youtube.com/watch?v=kgM0BI_eROQ)
+- [Stoicism Today](https://www.youtube.com/user/StoicismToday)
