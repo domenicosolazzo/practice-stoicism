@@ -2,11 +2,11 @@
 "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."
 
 ### TOC
-- [Blogs](#): Blogs
-- [Books](#): Stoic Books
-- [Dichotomy-Of-Control](#): Stoic technique
-- [History](#): History of Stoicism
-- [Negative_Visualization](#): Stoic technique
-- [Quotes](#): Quotes from famous philosophers
-- [Videos](#): Videos
-- [Articles](#): Articles
+- [Blogs](https://github.com/domenicosolazzo/practice-stoicism/blob/master/Blogs.md): Blogs
+- [Books](https://github.com/domenicosolazzo/practice-stoicism/blob/master/Books.md): Stoic Books
+- [Dichotomy-Of-Control](https://github.com/domenicosolazzo/practice-stoicism/blob/master/Dichotomy-Of-Control.md): Stoic technique
+- [History](https://github.com/domenicosolazzo/practice-stoicism/blob/master/History.md): History of Stoicism
+- [Negative_Visualization](https://github.com/domenicosolazzo/practice-stoicism/blob/master/Negative_Visualization.md): Stoic technique
+- [Quotes](https://github.com/domenicosolazzo/practice-stoicism/blob/master/Quotes.md): Quotes from famous philosophers
+- [Videos](https://github.com/domenicosolazzo/practice-stoicism/blob/master/Videos.md): Videos
+- [Articles](https://github.com/domenicosolazzo/practice-stoicism/blob/master/Articles.md): Articles
